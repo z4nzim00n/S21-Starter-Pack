@@ -17,10 +17,7 @@
 ![Главная картинка](assets/main_picture.png)
 ---
 # 🎥 Видео-инструкция
-
-Полный процесс установки с нуля:
-
-[![Видео-инструкция по настройке терминала](https://img.youtube.com/vi/6aNrYnO1NI0/maxresdefault.jpg)](https://youtu.be/6aNrYnO1NI0)
+# 🚀 [ЖМИ СЮДА И СМОТРИ ВИДЕО](https://youtu.be/6aNrYnO1NI0)
 
 ---
 
